@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "declaration": true,
+    "declarationMap": true,
+    "emitDeclarationOnly": false,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "module": "CommonJS",
+    "removeComments": true,
+    "sourceMap": true,
+    "sourceRoot": "./c",
+    "strict": true,
+    "target": "es6",
+    "types": [
+      "node"
+    ]
+  }
+}

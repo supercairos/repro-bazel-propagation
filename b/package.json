@@ -1,0 +1,15 @@
+{
+  "author": "Romain Caire",
+  "dependencies": {
+    "pino": "^8.11.0",
+    "pino-http": "^8.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.1"
+  },
+  "main": "src/index",
+  "types": "src/index",
+  "name": "@test/b",
+  "private": true,
+  "version": "0.0.1"
+}
